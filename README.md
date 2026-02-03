@@ -684,6 +684,7 @@
 * [SiteScan](https://github.com/kracer127/SiteScan) - AllinOne Website Information Gathering Tools for pentest.
 * [Banli](https://github.com/Goqi/Banli) - High-risk asset identification and high-risk vulnerability scanner. ![](svg/Windows.svg)
 * [vscan](https://github.com/veo/vscan) -  Open Source Vulnerability Scanner.  ![](svg/Windows.svg)![](svg/linux.svg)![](svg/mac.svg)
+* [Vulert](https://vulert.com) - Vulert secures software by detecting vulnerabilities in open-source dependencies—without accessing your code. It supports Js, PHP, Java, Python, and more
 * [Wapiti](https://github.com/wapiti-scanner/wapiti) - Web vulnerability scanner written in Python3.
 * [Scaninfo](https://github.com/redtoolskobe/scaninfo) - fast scan for redtools
 * [osv-scanner](https://github.com/google/osv-scanner) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
